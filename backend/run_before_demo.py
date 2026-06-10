@@ -17,8 +17,8 @@ import sys
 from database import Database 
 
 # ADDRESSES:
-# Start: Monnikheide 1
-# End: Eikevlietbaan 56
+# Start: Guido Gezellaan 123
+# End: R. Verbelenstraat 4
 
 VEHICLE_ID =int (os .getenv ('SEED_VEHICLE_ID', '1'))
 DELETE_ALL_OTHERS = True

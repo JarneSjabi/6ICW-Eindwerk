@@ -28783,6 +28783,146 @@
           ]
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.23382, \"lon\": 6.84448}": {
+      "timestamp": 1781091211.8261023,
+      "params": {
+        "lat": 50.23382,
+        "lon": 6.84448,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Waldorf GmbH",
+          "address": "Industriestraße 26",
+          "city": "Hillesheim",
+          "region": "Hillesheim",
+          "country": "DE",
+          "latitude": 50.29740122,
+          "longitude": 6.67161642,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Wirichplatz 18A",
+          "address": "Wirichplatz 18A",
+          "city": "Daun",
+          "region": null,
+          "country": "DE",
+          "latitude": 50.195236,
+          "longitude": 6.8313,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": null
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": null
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Abt-Richard-Straße 15",
+          "address": "Abt-Richard-Straße 15",
+          "city": "Daun",
+          "region": null,
+          "country": "DE",
+          "latitude": 50.196799,
+          "longitude": 6.82781,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": null
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": null
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.28961, \"lon\": 6.84448}": {
+      "timestamp": 1781091730.9818828,
+      "params": {
+        "lat": 50.28961,
+        "lon": 6.84448,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Landgasthaus Pfahl",
+          "address": "Hauptstr. 76",
+          "city": "Wershofen",
+          "region": "Rheinland-Pfalz",
+          "country": "DE",
+          "latitude": 50.4436,
+          "longitude": 6.8101,
+          "connections": [
+            {
+              "type_name": "CEE 5 Pin",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Hotel Kastenholz",
+          "address": "Hauptstraße 1",
+          "city": "Wershofen",
+          "region": "Rheinland-Pfalz",
+          "country": "DE",
+          "latitude": 50.443447,
+          "longitude": 6.8197023,
+          "connections": [
+            {
+              "type_name": "CEE 5 Pin",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Waldorf GmbH",
+          "address": "Industriestraße 26",
+          "city": "Hillesheim",
+          "region": "Hillesheim",
+          "country": "DE",
+          "latitude": 50.29740122,
+          "longitude": 6.67161642,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        }
+      ]
     }
   }
 }

@@ -559,7 +559,7 @@ async function showRideDetails(rideId) {
         
     } catch (error) {
         console.error('Error showing ride details:', error);
-        showAlert('Fout bij het laden van ritdetails', 'danger');
+        // showAlert('Fout bij het laden van ritdetails', 'danger');
     }
 }
 

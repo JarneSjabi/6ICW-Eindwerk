@@ -151,7 +151,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
     let lastRides = [];
     let layerFetchInFlight = {};
     let cachedChargers = [];
-    let vehiclePreviousPositions = {};
 
     const layerConfig = {
         vehicles: { enabled: true, group: null },
@@ -541,7 +540,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
             const activeRide = rides.find(r => r.vehicle_id === vehicle.id);
             const state = determineVehicleState(vehicle, rides);
 
-            const previous = vehiclePreviousPositions[vehicleId];
             // Apply vehicle filter (e.g. show only vehicles heading to charger)
             if (vehicleFilter !== 'all') {
                 if (vehicleFilter === 'to_charger' && state !== 'to_charger') return;

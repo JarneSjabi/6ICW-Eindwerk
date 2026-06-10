@@ -39,4 +39,4 @@ Thumbs.db
 
 # Config files
 backend/config.py
-admin/src/Core/Config.php
+

@@ -152,7 +152,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
     let layerFetchInFlight = {};
     let cachedChargers = [];
     let vehiclePreviousPositions = {};
-    let vehicleSpeeds = {};
 
     const layerConfig = {
         vehicles: { enabled: true, group: null },
@@ -543,16 +542,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
             const state = determineVehicleState(vehicle, rides);
 
             const previous = vehiclePreviousPositions[vehicleId];
-            let speed = null;
-            if (previous && typeof previous.lat === 'number' && typeof previous.lng === 'number') {
-                const deltaKm = calculateDistanceKm(previous.lat, previous.lng, lat, lng);
-                const deltaHours = Math.max((Date.now() - previous.ts) / 3600000, 0.001);
-                speed = deltaKm / deltaHours;
-            }
-            vehiclePreviousPositions[vehicleId] = { lat, lng, ts: Date.now() };
-            vehicleSpeeds[vehicleId] = speed;
-            vehiclePreviousPositions[vehicleId] = { lat, lng, ts: Date.now() };
-            vehicleSpeeds[vehicleId] = speed;
             // Apply vehicle filter (e.g. show only vehicles heading to charger)
             if (vehicleFilter !== 'all') {
                 if (vehicleFilter === 'to_charger' && state !== 'to_charger') return;
@@ -603,7 +592,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
                     <i class="fa ${stateInfo.icon}"></i> ${statusLine}
                 </span><br>
                 Batterij: ${vehicle.battery_level ?? 'N/A'}%<br>
-                Snelheid: ${formatSpeed(vehicleSpeeds[vehicleId])}<br>
                 ${activeRide ? `Rit #${activeRide.id}${activeRide.customer_name ? ' — ' + activeRide.customer_name : ''}<br>` : ''}
                 ${rideProgressHtml}
                 ID: ${vehicleId}
@@ -776,15 +764,6 @@ $backendUrl = Config::get('BACKEND_SERVICE_URL') ?? $db->query("SELECT value FRO
         const a = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
         const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         return R * c;
-    }
-
-    function formatSpeed(speed) {
-        if (speed == null || Number.isNaN(Number(speed))) return '—';
-        const value = Number(speed);
-        if (value > 200) {
-            return '>200 km/h';
-        }
-        return `${value.toFixed(1)} km/h`;
     }
 
     function getMidpoint(from, to) {

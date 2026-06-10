@@ -17,7 +17,7 @@ import sys
 from database import Database 
 
 # ADDRESSES:
-# Start: Guido Gezellaan 123
+# Start: Guido Gezellelaan 123 Puurs
 # End: R. Verbelenstraat 4
 
 VEHICLE_ID =int (os .getenv ('SEED_VEHICLE_ID', '1'))

@@ -29420,6 +29420,1426 @@
           ]
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.31254, \"lon\": 4.09378}": {
+      "timestamp": 1781102290.9001527,
+      "params": {
+        "lat": 51.31254,
+        "lon": 4.09378,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "McDonald's Burcht",
+          "address": "Pastoor Coplaan 116",
+          "city": "Zwijndrecht",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.20816991,
+          "longitude": 4.33847104,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Nissan Sturm Goes",
+          "address": "Amundsenweg 39",
+          "city": "Goes",
+          "region": "Zeeland",
+          "country": "NL",
+          "latitude": 51.4866022,
+          "longitude": 3.8742584,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Nissan Garage De Witte",
+          "address": "Sint-Niklaasstraat 92",
+          "city": " Sint-Gillis-Waas",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.2103062,
+          "longitude": 4.1385618,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.93246, \"lon\": 4.86076}": {
+      "timestamp": 1781102558.901767,
+      "params": {
+        "lat": 50.93246,
+        "lon": 4.86076,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Telcom NV",
+          "address": "Industriepark 19a",
+          "city": "Hulshout",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.08589023,
+          "longitude": 4.81085699,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "EVA Leuven III",
+          "address": "Tiensevest 2",
+          "city": "Leuven",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.87960079,
+          "longitude": 4.71552993,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "EVA Leuven IV",
+          "address": "Baron August de Becker Remyplein 60",
+          "city": "Leuven",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.88504008,
+          "longitude": 4.71924467,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.84756, \"lon\": 4.17}": {
+      "timestamp": 1781102623.6403842,
+      "params": {
+        "lat": 50.84756,
+        "lon": 4.17,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Pacheco",
+          "address": "Pachecolaan 7",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.851514,
+          "longitude": 4.3622978,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cambre",
+          "address": "Waterloosesteenweg 886",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.804246,
+          "longitude": 4.3723656,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cerisiers",
+          "address": "William Degouve de Nuncquesstraat 2",
+          "city": "Schaarbeek",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8482602,
+          "longitude": 4.4083798,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.04394, \"lon\": 4.09653}": {
+      "timestamp": 1781102636.273656,
+      "params": {
+        "lat": 51.04394,
+        "lon": 4.09653,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "McDonald's Burcht",
+          "address": "Pastoor Coplaan 116",
+          "city": "Zwijndrecht",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.20816991,
+          "longitude": 4.33847104,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "CIAC - Aalst",
+          "address": "Eendrachtstraat 2",
+          "city": "Aalst",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.9500432,
+          "longitude": 4.038211,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Parking Achterweidestraat",
+          "address": "Achterweidestraat",
+          "city": "Bornem",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.0972405,
+          "longitude": 4.2313455,
+          "connections": []
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.55854, \"lon\": 4.77372}": {
+      "timestamp": 1781102806.4771469,
+      "params": {
+        "lat": 50.55854,
+        "lon": 4.77372,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Jambes",
+          "address": "Av. du Luxembourg, 1",
+          "city": "Jambes",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.46362718,
+          "longitude": 4.88752127,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Peugeot Garage Baudouin-Pierre Namur",
+          "address": "CHAUSSEE DE MARCHE 750",
+          "city": "Naninne",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.4310652,
+          "longitude": 4.9214818,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "kewlox",
+          "address": "7 Rue Sainte-Anne",
+          "city": "Leuze ",
+          "region": "Namen",
+          "country": "BE",
+          "latitude": 50.56829864,
+          "longitude": 4.90317142,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.85956, \"lon\": 4.34784}": {
+      "timestamp": 1781110715.7845218,
+      "params": {
+        "lat": 50.85956,
+        "lon": 4.34784,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Pacheco",
+          "address": "Pachecolaan 7",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.851514,
+          "longitude": 4.3622978,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cambre",
+          "address": "Waterloosesteenweg 886",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.804246,
+          "longitude": 4.3723656,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cerisiers",
+          "address": "William Degouve de Nuncquesstraat 2",
+          "city": "Schaarbeek",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8482602,
+          "longitude": 4.4083798,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 49.08877, \"lon\": 1.85669}": {
+      "timestamp": 1781111258.176601,
+      "params": {
+        "lat": 49.08877,
+        "lon": 1.85669,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": false,
+          "name": "Parking Hôtel de Ville",
+          "address": "Place Saint-Jacques",
+          "city": "Mantes-la-Jolie",
+          "region": "",
+          "country": "FR",
+          "latitude": 48.990115,
+          "longitude": 1.714571,
+          "connections": []
+        },
+        {
+          "is_active": false,
+          "name": "Parking PSR - Mantes la ville",
+          "address": "Rue Jean Jaouen",
+          "city": "Mantes-la-Ville",
+          "region": "",
+          "country": "FR",
+          "latitude": 48.9878073,
+          "longitude": 1.7044177,
+          "connections": []
+        },
+        {
+          "is_active": false,
+          "name": "Auchan MANTES",
+          "address": "Chemin Départemental 110",
+          "city": "BUCHELAY",
+          "region": null,
+          "country": "FR",
+          "latitude": 48.9807,
+          "longitude": 1.68526,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 49.33031, \"lon\": 4.1777}": {
+      "timestamp": 1781111264.2253215,
+      "params": {
+        "lat": 49.33031,
+        "lon": 4.1777,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "E.Leclerc SAINT BRICE COURCELLES",
+          "address": "LA CROIX MAURENCIENNE",
+          "city": "SAINT BRICE COURCELLES",
+          "region": "",
+          "country": "FR",
+          "latitude": 49.2823019,
+          "longitude": 4.0026769,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": " IKEA Reims-Thillois ",
+          "address": "Parc commercial de Thillois",
+          "city": "Thillois",
+          "region": "",
+          "country": "FR",
+          "latitude": 49.25623,
+          "longitude": 3.96657,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Rue des Écoles",
+          "address": "Rue des Écoles",
+          "city": "Thillois",
+          "region": null,
+          "country": "FR",
+          "latitude": 49.256646,
+          "longitude": 3.954346,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": null
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.65328, \"lon\": 4.08428}": {
+      "timestamp": 1781111267.8461237,
+      "params": {
+        "lat": 50.65328,
+        "lon": 4.08428,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Anderlecht",
+          "address": "Internationalelaan 11",
+          "city": "Anderlecht",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8160043,
+          "longitude": 4.3040229,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": false,
+          "name": "Interparking Stéphanie - Louise (Wiltchers) ",
+          "address": "Avenue Louise 83 A",
+          "city": "Brussels",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8320816,
+          "longitude": 4.358631,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Nissan Group Duyck",
+          "address": "Bergensesteenweg 770a",
+          "city": "Sint-Pieters-Leeuw",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.7598846,
+          "longitude": 4.2515428,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.93772, \"lon\": 4.20518}": {
+      "timestamp": 1781111269.9570606,
+      "params": {
+        "lat": 50.93772,
+        "lon": 4.20518,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Pacheco",
+          "address": "Pachecolaan 7",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.851514,
+          "longitude": 4.3622978,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cambre",
+          "address": "Waterloosesteenweg 886",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.804246,
+          "longitude": 4.3723656,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cerisiers",
+          "address": "William Degouve de Nuncquesstraat 2",
+          "city": "Schaarbeek",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8482602,
+          "longitude": 4.4083798,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.74365, \"lon\": 4.26013}": {
+      "timestamp": 1781111282.2894797,
+      "params": {
+        "lat": 50.74365,
+        "lon": 4.26013,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Pacheco",
+          "address": "Pachecolaan 7",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.851514,
+          "longitude": 4.3622978,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cambre",
+          "address": "Waterloosesteenweg 886",
+          "city": "Brussel",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.804246,
+          "longitude": 4.3723656,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Total Cerisiers",
+          "address": "William Degouve de Nuncquesstraat 2",
+          "city": "Schaarbeek",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.8482602,
+          "longitude": 4.4083798,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.34609, \"lon\": 4.79317}": {
+      "timestamp": 1781111294.1445122,
+      "params": {
+        "lat": 50.34609,
+        "lon": 4.79317,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Jambes",
+          "address": "Av. du Luxembourg, 1",
+          "city": "Jambes",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.46362718,
+          "longitude": 4.88752127,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Peugeot Garage Baudouin-Pierre Namur",
+          "address": "CHAUSSEE DE MARCHE 750",
+          "city": "Naninne",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.4310652,
+          "longitude": 4.9214818,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Gare de Namur (P1)",
+          "address": "Boulevard du Nord",
+          "city": "Namen",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.469831,
+          "longitude": 4.86438604,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 6
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 1,
+              "num_connectors": 12
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 49.16054, \"lon\": 6.51489}": {
+      "timestamp": 1781111298.191307,
+      "params": {
+        "lat": 49.16054,
+        "lon": 6.51489,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Elektro Bartruff",
+          "address": "Schillerstr. 12 Beaumarais",
+          "city": " Saarlouis",
+          "region": "Landkreis Saarlouis",
+          "country": "DE",
+          "latitude": 49.3174123,
+          "longitude": 6.7352144,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Baumarkt Globus ",
+          "address": "Schanzenstraße 18",
+          "city": "Saarlouis",
+          "region": "Landkreis Saarlouis",
+          "country": "DE",
+          "latitude": 49.32379193,
+          "longitude": 6.75265581,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "La Maison Hotel",
+          "address": "22 Pralat-Subtil-Ring",
+          "city": "Saarlouis",
+          "region": null,
+          "country": "DE",
+          "latitude": 49.317262,
+          "longitude": 6.755291,
+          "connections": [
+            {
+              "type_name": "Tesla (Model S/X)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.60326, \"lon\": 4.46732}": {
+      "timestamp": 1781111300.1203635,
+      "params": {
+        "lat": 50.60326,
+        "lon": 4.46732,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Mc Donalds Waterloo",
+          "address": "Chaussée de Louvain 2",
+          "city": "Waterloo",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.6896939,
+          "longitude": 4.4083483,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Nissan Group Duyck",
+          "address": "Bergensesteenweg 770a",
+          "city": "Sint-Pieters-Leeuw",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.7598846,
+          "longitude": 4.2515428,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Gemeentehuis",
+          "address": "Jan van Ruusbroecpark z/n",
+          "city": "Hoeilaart",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.765945,
+          "longitude": 4.4729008,
+          "connections": [
+            {
+              "type_name": "Europlug 2-Pin (CEE 7/16)",
+              "type_official": "Europlug 2-Pin (CEE 7/16)",
+              "level": 1,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.46022, \"lon\": 4.26125}": {
+      "timestamp": 1781111312.0781014,
+      "params": {
+        "lat": 50.46022,
+        "lon": 4.26125,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Shopping Center Nivelles Sud ",
+          "address": "Chaussée de Mons, 18A",
+          "city": "Nivelles",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.58885,
+          "longitude": 4.309473,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 6
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Van der Valk - Nivelles Sud",
+          "address": "Chaussée de Mons 22",
+          "city": "Nivelles ",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.5885567,
+          "longitude": 4.3084834,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Nissan Bouvy Motor",
+          "address": "Rue Pont-à-Migneloux 24",
+          "city": "Charleroi",
+          "region": "Charleroi",
+          "country": "BE",
+          "latitude": 50.4889177,
+          "longitude": 4.45314459,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.31769, \"lon\": 3.84109}": {
+      "timestamp": 1781111396.6495495,
+      "params": {
+        "lat": 51.31769,
+        "lon": 3.84109,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Nissan Sturm Goes",
+          "address": "Amundsenweg 39",
+          "city": "Goes",
+          "region": "Zeeland",
+          "country": "NL",
+          "latitude": 51.4866022,
+          "longitude": 3.8742584,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Meubelen Jonckheere",
+          "address": "Nieuwe Baan 111",
+          "city": "Belsele",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.14560081,
+          "longitude": 4.1099891,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "EVA Waarschoot",
+          "address": "Gemeenteplein",
+          "city": "Waarschoot ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.15230909,
+          "longitude": 3.6072573,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 7
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
     }
   }
 }

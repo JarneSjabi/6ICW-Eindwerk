@@ -47,6 +47,10 @@ def main ():
         delete_q ="DELETE FROM vehicle_location_reports"
         deleted =db .execute_update (delete_q )
         print (f"Deleted vehicle_location_reports rows result: {deleted }")
+        
+        delete_q ="UPDATE vehicles SET battery_level = 100"
+        deleted =db .execute_update (delete_q )
+        print (f"Updated vehicles rows result: {deleted }")
 
 
     insert_q =(

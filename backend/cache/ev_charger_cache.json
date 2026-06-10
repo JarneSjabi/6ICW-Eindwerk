@@ -28923,6 +28923,351 @@
           ]
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.60285, \"lon\": 4.55665}": {
+      "timestamp": 1781095387.540779,
+      "params": {
+        "lat": 50.60285,
+        "lon": 4.55665,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Mc Donalds Waterloo",
+          "address": "Chaussée de Louvain 2",
+          "city": "Waterloo",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.6896939,
+          "longitude": 4.4083483,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Gemeentehuis",
+          "address": "Jan van Ruusbroecpark z/n",
+          "city": "Hoeilaart",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.765945,
+          "longitude": 4.4729008,
+          "connections": [
+            {
+              "type_name": "Europlug 2-Pin (CEE 7/16)",
+              "type_official": "Europlug 2-Pin (CEE 7/16)",
+              "level": 1,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "MariënParking",
+          "address": "Albert Biesmanslaan 12",
+          "city": "Hoeilaart",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.7678735,
+          "longitude": 4.4754596,
+          "connections": [
+            {
+              "type_name": "Europlug 2-Pin (CEE 7/16)",
+              "type_official": "Europlug 2-Pin (CEE 7/16)",
+              "level": 1,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.35965, \"lon\": 4.23745}": {
+      "timestamp": 1781095411.11438,
+      "params": {
+        "lat": 51.35965,
+        "lon": 4.23745,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Bonaparte",
+          "address": "Rijnkaai, 37",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.23008643,
+          "longitude": 4.40260513,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Nationale Bank",
+          "address": "Frankrijklei 166a",
+          "city": "Antwerpen ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2115108,
+          "longitude": 4.4079483,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Parking Quellin",
+          "address": "Quellinstraat 39",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2157725,
+          "longitude": 4.4159981,
+          "connections": [
+            {
+              "type_name": "Europlug 2-Pin (CEE 7/16)",
+              "type_official": "Europlug 2-Pin (CEE 7/16)",
+              "level": 2,
+              "num_connectors": 40
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.25761, \"lon\": 4.46526}": {
+      "timestamp": 1781095417.8170574,
+      "params": {
+        "lat": 51.25761,
+        "lon": 4.46526,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Bonaparte",
+          "address": "Rijnkaai, 37",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.23008643,
+          "longitude": 4.40260513,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Nationale Bank",
+          "address": "Frankrijklei 166a",
+          "city": "Antwerpen ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2115108,
+          "longitude": 4.4079483,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Parking Quellin",
+          "address": "Quellinstraat 39",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2157725,
+          "longitude": 4.4159981,
+          "connections": [
+            {
+              "type_name": "Europlug 2-Pin (CEE 7/16)",
+              "type_official": "Europlug 2-Pin (CEE 7/16)",
+              "level": 2,
+              "num_connectors": 40
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.06219, \"lon\": 4.12184}": {
+      "timestamp": 1781095423.886775,
+      "params": {
+        "lat": 51.06219,
+        "lon": 4.12184,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Bonaparte",
+          "address": "Rijnkaai, 37",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.23008643,
+          "longitude": 4.40260513,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Parking Nationale Bank",
+          "address": "Frankrijklei 166a",
+          "city": "Antwerpen ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2115108,
+          "longitude": 4.4079483,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "McDonald's Burcht",
+          "address": "Pastoor Coplaan 116",
+          "city": "Zwijndrecht",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.20816991,
+          "longitude": 4.33847104,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.17686, \"lon\": 4.29462}": {
+      "timestamp": 1781095427.985366,
+      "params": {
+        "lat": 51.17686,
+        "lon": 4.29462,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Bonaparte",
+          "address": "Rijnkaai, 37",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.23008643,
+          "longitude": 4.40260513,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": false,
+          "name": "Parking Grote Markt",
+          "address": "Grote Markt",
+          "city": "Mechelen",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.0280905,
+          "longitude": 4.4798128,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Parking Nationale Bank",
+          "address": "Frankrijklei 166a",
+          "city": "Antwerpen ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2115108,
+          "longitude": 4.4079483,
+          "connections": []
+        }
+      ]
     }
   }
 }

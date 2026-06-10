@@ -88,7 +88,7 @@ class VehicleSimulator:
     """Simulates vehicle movement and location reporting"""
 
     # Important: Speed and Max Charge
-    IDLE_CHARGE_TARGET_PCT = 98
+    IDLE_CHARGE_TARGET_PCT = 99
     SIMULATED_SPEED_KMH = 70.0          # CONSTANT SPEED
     MAX_SIMULATED_SPEED_KMH = 180.0
 

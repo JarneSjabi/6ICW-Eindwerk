@@ -30840,6 +30840,735 @@
           ]
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.50459, \"lon\": 4.49341}": {
+      "timestamp": 1781111870.6743772,
+      "params": {
+        "lat": 50.50459,
+        "lon": 4.49341,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Voltis",
+          "address": "Rue Laid Burniat 2",
+          "city": "Louvain-La-Neuve",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.6653711,
+          "longitude": 4.6372323,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Shopping Center Nivelles Sud ",
+          "address": "Chaussée de Mons, 18A",
+          "city": "Nivelles",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.58885,
+          "longitude": 4.309473,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 6
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Van der Valk - Nivelles Sud",
+          "address": "Chaussée de Mons 22",
+          "city": "Nivelles ",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.5885567,
+          "longitude": 4.3084834,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.51027, \"lon\": -2.60142}": {
+      "timestamp": 1781111872.7838714,
+      "params": {
+        "lat": 51.51027,
+        "lon": -2.60142,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Cabot Circus",
+          "address": "Cabot Circus Bond Street",
+          "city": "Bristol",
+          "region": null,
+          "country": "GB",
+          "latitude": 51.459549,
+          "longitude": -2.581388,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            },
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "The Mall at Cribbs Causeway  -  Car park K (ZCW)",
+          "address": "-",
+          "city": "Bristol",
+          "region": null,
+          "country": "GB",
+          "latitude": 51.525108,
+          "longitude": -2.595388,
+          "connections": [
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Blue Commando (2P+E)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Sainsburys Car Park",
+          "address": "May Lane",
+          "city": "Dursley",
+          "region": "Gloucestershire",
+          "country": "GB",
+          "latitude": 51.6822665,
+          "longitude": -2.355259,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.75508, \"lon\": -3.74428}": {
+      "timestamp": 1781111875.6128206,
+      "params": {
+        "lat": 51.75508,
+        "lon": -3.74428,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Aberhyddnant Farm Cottages",
+          "address": "Aberhyddnant Crai",
+          "city": "Brecon",
+          "region": "Powys",
+          "country": "GB",
+          "latitude": 51.900719,
+          "longitude": -3.639845,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "National Waterfront Museum",
+          "address": "Oystermouth Road Maritime Quarter",
+          "city": "Swansea",
+          "region": "Wales",
+          "country": "GB",
+          "latitude": 51.61653807,
+          "longitude": -3.93899407,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Blue Commando (2P+E)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Aberavon Beach Hotel",
+          "address": "Princess Margaret Way",
+          "city": "Neath Port Talbot",
+          "region": null,
+          "country": "GB",
+          "latitude": 51.593603,
+          "longitude": -3.814883,
+          "connections": [
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.68016, \"lon\": -4.16245}": {
+      "timestamp": 1781111878.87451,
+      "params": {
+        "lat": 51.68016,
+        "lon": -4.16245,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "National Waterfront Museum",
+          "address": "Oystermouth Road Maritime Quarter",
+          "city": "Swansea",
+          "region": "Wales",
+          "country": "GB",
+          "latitude": 51.61653807,
+          "longitude": -3.93899407,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Blue Commando (2P+E)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Fairyhill ",
+          "address": "Reynoldston Gower",
+          "city": "Swansea",
+          "region": null,
+          "country": "GB",
+          "latitude": 51.598898,
+          "longitude": -4.214534,
+          "connections": [
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Blue Commando (2P+E)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Coastguard Cottage (National Trust)",
+          "address": "Rhossili & South Gower Coast",
+          "city": "Wormshead,",
+          "region": "Wales",
+          "country": "GB",
+          "latitude": 51.568913,
+          "longitude": -4.28999,
+          "connections": [
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.76245, \"lon\": -4.3697}": {
+      "timestamp": 1781111882.137393,
+      "params": {
+        "lat": 51.76245,
+        "lon": -4.3697,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Fairyhill ",
+          "address": "Reynoldston Gower",
+          "city": "Swansea",
+          "region": null,
+          "country": "GB",
+          "latitude": 51.598898,
+          "longitude": -4.214534,
+          "connections": [
+            {
+              "type_name": "BS1363 3 Pin 13 Amp",
+              "type_official": "BS1363 / Type G",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Blue Commando (2P+E)",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Nant y Ci Park and Ride",
+          "address": "Nant-y-Ci Llanllwch",
+          "city": "Carmarthen",
+          "region": "Carmerthenshire",
+          "country": "GB",
+          "latitude": 51.84714243,
+          "longitude": -4.34968472,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Murray Street Multi-Storey Car Park",
+          "address": "Murray Street",
+          "city": "Llanelli",
+          "region": "Carmarthenshire",
+          "country": "GB",
+          "latitude": 51.68137023,
+          "longitude": -4.1610074,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 48.86258, \"lon\": -14.98358}": {
+      "timestamp": 1781111887.0431411,
+      "params": {
+        "lat": 48.86258,
+        "lon": -14.98358,
+        "distance": 20.0
+      },
+      "data": []
+    },
+    "{\"distance\": 20.0, \"lat\": 47.19687, \"lon\": 5.2439}": {
+      "timestamp": 1781111890.5063372,
+      "params": {
+        "lat": 47.19687,
+        "lon": 5.2439,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Nissan Sad",
+          "address": "Rue des Ardennes 5 Les Grésilles",
+          "city": "Dijon",
+          "region": "Dijon",
+          "country": "FR",
+          "latitude": 47.35173995,
+          "longitude": 5.06854968,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Toison d'Or",
+          "address": "Echangeur des Argonautes Montchapet",
+          "city": "Dijon",
+          "region": "Dijon",
+          "country": "FR",
+          "latitude": 47.35702152,
+          "longitude": 5.04911218,
+          "connections": [
+            {
+              "type_name": "Unknown",
+              "type_official": "Not Specified",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "IKEA Dijon",
+          "address": "1 Rue de Cracovie Les Grésilles",
+          "city": "Dijon",
+          "region": null,
+          "country": "FR",
+          "latitude": 47.3406661,
+          "longitude": 5.06438,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 47.25907, \"lon\": 5.74396}": {
+      "timestamp": 1781111900.9424493,
+      "params": {
+        "lat": 47.25907,
+        "lon": 5.74396,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Allego - Nissan - Besançon",
+          "address": "4 Boulevard Président John Fitzgerald Kennedy",
+          "city": "Besançon",
+          "region": null,
+          "country": "FR",
+          "latitude": 47.24280852,
+          "longitude": 5.9931737,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Tesla Supercharger Besançon",
+          "address": "1 Bis Rue Victor Considérant Hôtel Akena Besançon",
+          "city": "Chemaudin et Vaux",
+          "region": null,
+          "country": "FR",
+          "latitude": 47.234539,
+          "longitude": 5.901153,
+          "connections": [
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 8
+            },
+            {
+              "type_name": "Tesla (Model S/X)",
+              "type_official": null,
+              "level": 3,
+              "num_connectors": 8
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "place du march?",
+          "address": "\"15 Rue de Choiseul 70140 Pesmes\"",
+          "city": null,
+          "region": null,
+          "country": "FR",
+          "latitude": 47.279376,
+          "longitude": 5.565838,
+          "connections": [
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 2,
+              "num_connectors": null
+            },
+            {
+              "type_name": "Type 2 (Tethered Connector) ",
+              "type_official": "IEC 62196-2",
+              "level": 2,
+              "num_connectors": null
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.10934, \"lon\": -1.5964}": {
+      "timestamp": 1781111902.867182,
+      "params": {
+        "lat": 50.10934,
+        "lon": -1.5964,
+        "distance": 20.0
+      },
+      "data": []
+    },
+    "{\"distance\": 20.0, \"lat\": 50.90905, \"lon\": 3.83744}": {
+      "timestamp": 1781111920.662226,
+      "params": {
+        "lat": 50.90905,
+        "lon": 3.83744,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": false,
+          "name": "CIAC-Gent",
+          "address": "Einde Were 1",
+          "city": "Gent",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.0499732,
+          "longitude": 3.7028974,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "CIAC - Aalst",
+          "address": "Eendrachtstraat 2",
+          "city": "Aalst",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.9500432,
+          "longitude": 4.038211,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "CIAC Sint Amandsberg",
+          "address": "Antwerpsesteenweg 683",
+          "city": "Sint Amandsberg",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.07089777,
+          "longitude": 3.77075009,
+          "connections": [
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.37695, \"lon\": 3.74062}": {
+      "timestamp": 1781112314.3411102,
+      "params": {
+        "lat": 50.37695,
+        "lon": 3.74062,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": false,
+          "name": "Maubeuge Val-de-Sambre",
+          "address": "place du Dr Pierre Forest",
+          "city": "Maubeuge",
+          "region": "",
+          "country": "FR",
+          "latitude": 50.280228,
+          "longitude": 3.9674,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Imagipark",
+          "address": "1, Avenue du Grand Large",
+          "city": "Mons",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.4694185,
+          "longitude": 3.9352352,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Gare Péruwelz  ",
+          "address": "rue des Francais 59",
+          "city": "Peruwelz",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.51338878,
+          "longitude": 3.59189671,
+          "connections": []
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.13106, \"lon\": 4.42957}": {
+      "timestamp": 1781112386.732855,
+      "params": {
+        "lat": 51.13106,
+        "lon": 4.42957,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Total Bonaparte",
+          "address": "Rijnkaai, 37",
+          "city": "Antwerpen",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.23008643,
+          "longitude": 4.40260513,
+          "connections": [
+            {
+              "type_name": "CHAdeMO",
+              "type_official": "IEC 62196-3 Configuration AA",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CCS (Type 2)",
+              "type_official": "IEC 62196-3 Configuration FF",
+              "level": 3,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 3,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": false,
+          "name": "Parking Grote Markt",
+          "address": "Grote Markt",
+          "city": "Mechelen",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.0280905,
+          "longitude": 4.4798128,
+          "connections": []
+        },
+        {
+          "is_active": true,
+          "name": "Parking Nationale Bank",
+          "address": "Frankrijklei 166a",
+          "city": "Antwerpen ",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.2115108,
+          "longitude": 4.4079483,
+          "connections": []
+        }
+      ]
     }
   }
 }

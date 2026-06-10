@@ -29268,6 +29268,158 @@
           "connections": []
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.04192, \"lon\": 7.15447}": {
+      "timestamp": 1781098630.796136,
+      "params": {
+        "lat": 51.04192,
+        "lon": 7.15447,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Parkhaus City Center",
+          "address": "Friedrich-Ebert-Strasse 33",
+          "city": "Leverkusen",
+          "region": null,
+          "country": "DE",
+          "latitude": 51.03036768,
+          "longitude": 6.98836176,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/4 - Schuko - Type F",
+              "type_official": "CEE 7/4",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "PPC-Interactive",
+          "address": "Auf der Kaiserbitz 20",
+          "city": " Köln",
+          "region": "",
+          "country": "DE",
+          "latitude": 50.88193,
+          "longitude": 7.10068,
+          "connections": [
+            {
+              "type_name": "Tesla (Roadster)",
+              "type_official": "Tesla Connector",
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Stadtwerke Rösrath",
+          "address": "Hauptstraße 142",
+          "city": "Rösrath",
+          "region": "Nordrhein-Westfalen",
+          "country": "DE",
+          "latitude": 50.90731325,
+          "longitude": 7.18823507,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        }
+      ]
+    },
+    "{\"distance\": 20.0, \"lat\": 51.02159, \"lon\": 4.88647}": {
+      "timestamp": 1781098632.8072588,
+      "params": {
+        "lat": 51.02159,
+        "lon": 4.88647,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "Telcom NV",
+          "address": "Industriepark 19a",
+          "city": "Hulshout",
+          "region": "",
+          "country": "BE",
+          "latitude": 51.08589023,
+          "longitude": 4.81085699,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "VOKA Kempen",
+          "address": "Kleinhoefstraat 9",
+          "city": "Geel",
+          "region": null,
+          "country": "BE",
+          "latitude": 51.16304005,
+          "longitude": 4.96353367,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 2
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "EVA Leuven III",
+          "address": "Tiensevest 2",
+          "city": "Leuven",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.87960079,
+          "longitude": 4.71552993,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        }
+      ]
     }
   }
 }

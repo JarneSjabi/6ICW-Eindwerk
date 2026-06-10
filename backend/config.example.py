@@ -1,4 +1,4 @@
-
+import os
 
 DATABASE_CONFIG = {
     'host': 'localhost',
@@ -15,7 +15,7 @@ DEBUG = False
 
 OSM_NOMINATIM_URL = 'https://nominatim.openstreetmap.org/search'
 OSRM_URL = 'http://router.project-osrm.org/route/v1/driving'
-API_NINJAS_KEY = ''  # Set via environment variable or replace with your key
+API_NINJAS_KEY = os.getenv('API_NINJAS_KEY', '') # Set via environment variable or replace with your key
 
 CACHE_DIR = 'cache'
 CACHE_EXPIRY_HOURS = 24 * 90

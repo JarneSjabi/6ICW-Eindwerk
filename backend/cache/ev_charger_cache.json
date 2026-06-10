@@ -31569,6 +31569,88 @@
           "connections": []
         }
       ]
+    },
+    "{\"distance\": 20.0, \"lat\": 50.86747, \"lon\": 4.89578}": {
+      "timestamp": 1781112607.2544937,
+      "params": {
+        "lat": 50.86747,
+        "lon": 4.89578,
+        "distance": 20.0
+      },
+      "data": [
+        {
+          "is_active": true,
+          "name": "EVA Leuven III",
+          "address": "Tiensevest 2",
+          "city": "Leuven",
+          "region": "",
+          "country": "BE",
+          "latitude": 50.87960079,
+          "longitude": 4.71552993,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "EVA Leuven IV",
+          "address": "Baron August de Becker Remyplein 60",
+          "city": "Leuven",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.88504008,
+          "longitude": 4.71924467,
+          "connections": [
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            }
+          ]
+        },
+        {
+          "is_active": true,
+          "name": "Impermo Sint Truiden",
+          "address": "Tiensesteenweg 127",
+          "city": "Sint-Truiden",
+          "region": null,
+          "country": "BE",
+          "latitude": 50.81531129,
+          "longitude": 5.17200687,
+          "connections": [
+            {
+              "type_name": "CEE 7/5",
+              "type_official": null,
+              "level": 2,
+              "num_connectors": 1
+            },
+            {
+              "type_name": "Type 2 (Socket Only)",
+              "type_official": "IEC 62196-2 Type 2",
+              "level": null,
+              "num_connectors": null
+            }
+          ]
+        }
+      ]
     }
   }
 }

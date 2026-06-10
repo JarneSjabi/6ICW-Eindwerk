@@ -36,6 +36,14 @@ def main ():
 
 
     if DELETE_ALL_OTHERS == True:
+        delete_q ="DELETE FROM ride_requests"
+        deleted =db .execute_update (delete_q )
+        print (f"Deleted ride_requests rows result: {deleted }")
+        
+        delete_q ="DELETE FROM routes"
+        deleted =db .execute_update (delete_q )
+        print (f"Deleted routes rows result: {deleted }")
+        
         delete_q ="DELETE FROM vehicle_location_reports"
         deleted =db .execute_update (delete_q )
         print (f"Deleted vehicle_location_reports rows result: {deleted }")
